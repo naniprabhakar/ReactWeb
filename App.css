@@ -1,0 +1,109 @@
+body {
+    color: black;
+}
+
+.header {
+    background-color: rgb(37, 36, 33);
+    display: inline-block;
+    width: 100%;
+}
+
+.text1 {
+    float: right;
+    background-color: rgb(23, 22, 24);
+    padding: 10px;
+    color: white;
+}
+
+.text2 {
+    margin: 10px;
+    display: inline-block;
+}
+
+.heading {
+    float: left;
+    margin-left: 50px;
+    color: white;
+}
+
+.heading1 {
+    margin-top: 20px;
+    margin-right: 50px;
+    height: 10px;
+}
+
+h6 {
+    margin-top: -20px;
+}
+
+.box {
+    border: 2px solid;
+    width: 90%;
+    background-color: rgb(234, 239, 241);
+    margin-left: 10px;
+    padding: 60px;
+}
+
+.box1 {
+    border: 2px solid;
+    width: 215px;
+    height: 315px;
+    display: inline-block;
+    text-align: center;
+    margin-left: 60px;
+    background-color: black;
+}
+
+.boxing {
+    text-align: center;
+    margin-top: 150px;
+    margin-bottom: 150px;
+    color: white;
+}
+
+p {
+    text-align: center;
+    color: #949D9E;
+}
+
+nav {
+    float: right;
+    margin-left: 100px;
+    color: #949D9E
+}
+
+span {
+    color: coral;
+}
+
+.Boxs2 {
+    height: 150px;
+    width: 180px;
+    border: 4px solid yellowgreen;
+    background-color: black;
+    margin: 5px;
+    color: white;
+    float: left;
+    text-align: center;
+}
+
+.Boxs1 {
+    display: inline-block;
+}
+
+.Meddle {
+    float: Right;
+}
+
+.part {
+    display: inline-block;
+    margin-left: 70px;
+}
+
+h3, h5 {
+    color: #949D9E;
+}
+
+.MP {
+    margin-top: 70px;
+}
